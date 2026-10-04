@@ -1,0 +1,2 @@
+[functions.fetch-job-url]
+verify_jwt = false
